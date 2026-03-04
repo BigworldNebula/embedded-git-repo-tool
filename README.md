@@ -1,6 +1,10 @@
-# Git Nested Repo Helper
+# Embedded Git Repo Tool
 
 这是一个用于解决 Git 仓库嵌套（Sub-repository）上传问题的工具集。
+
+This is a toolset designed to solve the problem of uploading nested (sub-repository) Git repositories.
+
+---
 
 ## ⚠️ 问题背景
 
